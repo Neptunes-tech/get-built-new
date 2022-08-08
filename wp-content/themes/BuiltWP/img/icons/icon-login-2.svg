@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <clipPath id="clip-path">
+      <circle cx="11" cy="11" r="11" transform="translate(364 127)" fill="none" stroke-width="2"/>
+    </clipPath>
+  </defs>
+  <g transform="translate(-364 -127)">
+    <g clip-path="url(#clip-path)">
+      <path id="I_Profile" d="M0,370v-2c0-2.2,3.6-4,8-4s8,1.8,8,4v2Zm4-12a4,4,0,1,1,4,4A4,4,0,0,1,4,358Z" transform="translate(367 -222)"/>
+      <g transform="translate(364 127)" fill="none" stroke="#000000" stroke-width="2">
+        <circle cx="11" cy="11" r="11" stroke="none"/>
+        <circle cx="11" cy="11" r="10" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
